@@ -7,7 +7,7 @@ With the effort, we hope to help Council District Members and MyLA311 to detect 
 ## Shiny
 
 App could be found here.
-https://dso545group3.shinyapps.io/545_Final_Project/
+http://yingchen.co/shiny/myla311/
 
 ### Installation
 
